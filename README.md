@@ -14,15 +14,15 @@ The Convolutional Neural Network is tested on multiple examples:
 Traffic signs, colored shapes and black shapes.
 Some example images and the perfomance metrics during training are shown below.
 
-![alt text](https://github.com/jkrn/Image_Recognition_AlexNet/blob/main/assets/traffic_signs.png?raw=true)
+![alt text](https://github.com/jkrn/CNN_TensorFlow/blob/main/assets/traffic_signs.png?raw=true)
 
-![alt text](https://github.com/jkrn/Image_Recognition_AlexNet/blob/main/assets/color_shapes.png?raw=true)
+![alt text](https://github.com/jkrn/CNN_TensorFlow/blob/main/assets/color_shapes.png?raw=true)
 
-![alt text](https://github.com/jkrn/Image_Recognition_AlexNet/blob/main/assets/black_shapes.png?raw=true)
+![alt text](https://github.com/jkrn/CNN_TensorFlow/blob/main/assets/black_shapes.png?raw=true)
 
 
 ## Plot of the Convolutional Neural Network (CNN)
 
 A plot of the model is shown below.
 
-![alt text](https://github.com/jkrn/Image_Recognition_AlexNet/blob/main/assets/cnn_model.png?raw=true)
+![alt text](https://github.com/jkrn/CNN_TensorFlow/blob/main/assets/cnn_model.png?raw=true)
