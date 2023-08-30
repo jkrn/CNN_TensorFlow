@@ -5,13 +5,16 @@ In this project a Convolutional Neural Network (CNN) is implemented with Tensorf
 ## Overview
 
 The file "main.py" contains the Python source code.
+
 The folder "trainedModels" contains the plots of the perfomance metrics for each model.
+
 The folder "assets" contains the images which are shown below.
 
 ## Examples
 
 The Convolutional Neural Network is tested on multiple examples:
 Traffic signs, colored shapes and black shapes.
+
 Some example images and the perfomance metrics during training are shown below.
 
 ![alt text](https://github.com/jkrn/CNN_TensorFlow/blob/main/assets/traffic_signs.png?raw=true)
