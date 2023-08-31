@@ -81,7 +81,7 @@ def show_train_images():
         plt.imshow(img_data)
         plt.show()
 
-# Build CNN
+# Build CNN Model
 def build_cnn_model():
     global cnn_model
     # Input Layer
@@ -121,7 +121,7 @@ def build_cnn_model():
     cnn_model = tf.keras.models.Model(inputs=inputs, outputs=l8)
     print("Building complete")
 
-# Compile CNN
+# Compile CNN Model
 def compile_cnn_model():
     global cnn_model
     # Metrics
@@ -140,7 +140,7 @@ def compile_cnn_model():
         ),
         metrics=metrics,
     )
-    # Plot image of CNN model
+    # Plot image of CNN Model
     #tf.keras.utils.plot_model(cnn_model, to_file='cnn_model.png', show_layer_names=False, show_shapes=True, show_dtype=True, dpi=200)
     print("Compiling complete")
 
