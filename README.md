@@ -7,6 +7,7 @@ In this project a Convolutional Neural Network (CNN) is implemented with Tensorf
 The file "main.py" contains the Python source code.
 The folder "trainedModels" contains the plots of the perfomance metrics for each model.
 The folder "assets" contains the images which are shown below.
+The training images need to be placed in the folder "images".
 
 ### Examples
 
