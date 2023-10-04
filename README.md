@@ -11,8 +11,7 @@ The training images need to be placed in the folder "images".
 
 ### Examples
 
-The Convolutional Neural Network is tested on multiple examples:
-Traffic signs and colored shapes.
+The Convolutional Neural Network is tested on multiple examples.
 Some example images and the perfomance metrics during training are shown below.
 
 ![alt text](https://github.com/jkrn/CNN_TensorFlow/blob/main/assets/traffic_signs.png?raw=true)
